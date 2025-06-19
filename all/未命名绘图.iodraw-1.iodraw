@@ -38,7 +38,7 @@
         <mxCell id="CoW2TzZjD_LrUt-CqT9n-12" value="绘图模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CoW2TzZjD_LrUt-CqT9n-13" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="CoW2TzZjD_LrUt-CqT9n-13" value="游戏逻辑模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CoW2TzZjD_LrUt-CqT9n-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;初始化模块&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">

@@ -9,8 +9,9 @@
             <mxPoint x="399.5" y="170" as="sourcePoint" />
             <mxPoint x="399.5" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399.5" y="240" />
-              <mxPoint x="399.5" y="240" />
+              <mxPoint x="400" y="215" />
+              <mxPoint x="170" y="215" />
+              <mxPoint x="170" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -19,15 +20,6 @@
         </mxCell>
         <mxCell id="CoW2TzZjD_LrUt-CqT9n-10" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="CoW2TzZjD_LrUt-CqT9n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CoW2TzZjD_LrUt-CqT9n-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="226" />
-              <mxPoint x="401" y="226" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="CoW2TzZjD_LrUt-CqT9n-11" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="60" height="120" as="geometry" />
